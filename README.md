@@ -1,2 +1,2 @@
 # HTML
-my learnings of HTML
+my code repo of HTML
